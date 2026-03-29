@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "fcbc6e7193175aaa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +190,9 @@
       "daily-notes:Mở ghi chú hôm nay": false,
       "templates:Chèn mẫu": false,
       "command-palette:Mở khay lệnh": false,
-      "bases:Tạo cơ sở mới": false
+      "bases:Tạo cơ sở mới": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "38ab1147e55afbfc",
